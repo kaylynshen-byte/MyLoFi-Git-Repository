@@ -55,7 +55,7 @@ So here are some future improvement points:
 ## Credits, Resources, and Extras
 Want to see the TunePad soundtrack? Here's the link -> https://tunepad.com/project/110923
 
-The json is also included in this git repository!
+The json file is also included in this git repository!
 
 ### Resources
 Lo-fi track inspiration -> https://www.youtube.com/watch?v=APljvOxetas 
