@@ -12,16 +12,21 @@
 
 <img width="517" height="610" alt="image" src="https://github.com/user-attachments/assets/58ba1920-7572-45ad-a896-9aac9b228ca6" />
 
-
-	
 ## Required Elements
-Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+What you need to run MyLoFi...
+* Applications:
+* * Visual Studio Code
+* * IDLE
+* Files to save to your desktop
+* * Python file: mylofi.py
+* * Audio folder: lofitrack
 
 ## How to set up MyLoFi
-bla bla bla set up
+### A step by step guide
+
+1. Ensure you have all the elements listed [above](#required-elements)
+2. Open **mylofi.py** in Visual Studio Code
+3. 
 
 ## Room for Improvement
 bla bla bla stretch goals
