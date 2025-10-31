@@ -15,11 +15,11 @@
 ## Required Elements
 What you need to run MyLoFi...
 * Applications:
-* * Visual Studio Code
-* * IDLE
+  * Visual Studio Code
+  * IDLE
 * Files to save to your desktop
-* * Python file: mylofi.py
-* * Audio folder: lofitrack
+  * Python file: mylofi.py
+  * Audio folder: lofitrack
 
 ## How to set up MyLoFi
 ### A step by step guide
