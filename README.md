@@ -46,13 +46,17 @@ What you need to run MyLoFi...
 
 ## Room for Improvement
 This was a short semester project, thus, it is not completed to the extent that I would like...
+
 So here are some future improvement points:
 * Volume settings for each musical element
 * More than 1 track
-* Better visuals
+* Better visuals/aesthetics
 
 ## Credits and Sources
 Lo-fi track inspiration -> https://www.youtube.com/watch?v=APljvOxetas 
+
 Font -> https://resourceboy.com/fonts/lofi-lifestyle-font/ 
+
 Cafe Chatter Audio -> https://freesound.org/people/lunchmoney/sounds/380201/
+
 Vinyl Crackle Audio -> https://freesound.org/people/Anthousai/sounds/398815/
