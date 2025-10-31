@@ -33,8 +33,8 @@ What you need to run MyLoFi...
     * Click onto **Finder**
     * In the sidebar, under Locations, there should be a drive called **Macintosh HD**
     * Click **Users**
-      * There, you should be able to view what your Apple user is called
-4. Change 'kaylyn' to your Apple user name
+      * There, you should be able to view what your mac user is called
+4. Change 'kaylyn' to your mac user name
    * Each file line should now say... **fileX = "/Users/macusername/Desktop/lofitrack/______.mp3"**
    *  You're now ready to launch MyLoFi
 6. Click the play button in the top right corner to run the code
