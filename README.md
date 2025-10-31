@@ -47,7 +47,7 @@ What you need to run MyLoFi...
 ## Room for Improvement
 This was a short semester project, thus, it is not completed to the extent that I would like...
 
-So here are some future improvement points:
+So here are some future development ideas:
 * Volume settings for each musical element
 * More than 1 track
 * Better visuals/aesthetics
@@ -59,6 +59,8 @@ The json file is also included in this git repository!
 
 ### Resources
 Lo-fi track inspiration -> https://www.youtube.com/watch?v=APljvOxetas 
+
+Interface inspiration -> https://youtu.be/MeMCBdnhvQs?si=fIx4L8qw1Fk_wkY8 
 
 Font -> https://resourceboy.com/fonts/lofi-lifestyle-font/ 
 
