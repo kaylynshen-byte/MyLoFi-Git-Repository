@@ -13,10 +13,12 @@
 <img width="517" height="610" alt="image" src="https://github.com/user-attachments/assets/58ba1920-7572-45ad-a896-9aac9b228ca6" />
 
 ## Required Elements
+
 What you need to run MyLoFi...
 * Applications:
   * Visual Studio Code
   * Python Launcher
+
 * Files to save to your desktop
   * Python file: mylofi.py
   * Audio folder: lofitrack
