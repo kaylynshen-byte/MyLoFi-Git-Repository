@@ -1,4 +1,5 @@
-# tutorial-6
+# Working with Data and Code, Code Prototype Project
+## MyLoFi
 
 ## Table of contents
 * [General info](#general-info)
