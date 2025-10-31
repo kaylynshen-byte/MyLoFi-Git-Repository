@@ -27,10 +27,10 @@ What you need to run MyLoFi...
 1. Ensure you have all the elements listed [above](#required-elements)
 2. Open **mylofi.py** in Visual Studio Code
 3. Go to **line 64-70**
-   * Here the code dictates the path to each individual audio file, so we are going to change that to match your laptop!
-   1. Click onto **Finder**
-   2. In the sidebar, under Locations, there should be a drive called **Macintosh HD**
-   3. Click **Users**
+   * Here the code dictates the path to each individual audio file, so we are going to change that to match your laptop:
+    * Click onto **Finder**
+    * In the sidebar, under Locations, there should be a drive called **Macintosh HD**
+    * Click **Users**
       * There, you should be able to view what your Apple user is called
 4. Change 'kaylyn' to your Apple user name
    * Each file line should now say... **fileX = "/Users/yourname/Desktop/lofitrack/______.mp3"**
