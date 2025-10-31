@@ -19,7 +19,7 @@ What you need to run MyLoFi...
   * Visual Studio Code
   * Python Launcher
 
-* Files to save to your desktop
+* Files to save to your desktop:
   * Python file: mylofi.py
   * Audio folder: lofitrack
 
