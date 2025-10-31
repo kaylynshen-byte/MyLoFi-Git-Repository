@@ -16,7 +16,7 @@
 What you need to run MyLoFi...
 * Applications:
   * Visual Studio Code
-  * IDLE
+  * Python Launcher
 * Files to save to your desktop
   * Python file: mylofi.py
   * Audio folder: lofitrack
@@ -26,7 +26,21 @@ What you need to run MyLoFi...
 
 1. Ensure you have all the elements listed [above](#required-elements)
 2. Open **mylofi.py** in Visual Studio Code
-3. 
+3. Go to **line 64-70**
+   Here the code dictates the path to each individual audio file, so we are going to change that to match your laptop!
+   1. Click onto **Finder**
+   2. In the sidebar, under Locations, there should be a drive called **Macintosh HD**
+   3. Click **Users**
+      There, you should be able to view what your Apple user is called
+4. Change 'kaylyn' to your Apple user name
+   Each file line should now say... **fileX = "/Users/yourname/Desktop/lofitrack/______.mp3"**
+   You're now ready to launch MyLoFi
+6. Click the play button in the top right corner to run the code
+   You should now get a python launcher window
+7. Tick which elements you want in your lofi track!
+8. Click **PLAY** and your lofi track will play continuously until you hit **STOP**
+   You can use the buttons below, **SELECT ALL** and **DESELECT ALL** to tick all the checkboxes or untick them all to reset!
+9. Have fun with your new lofi soundtrack!!!!!!
 
 ## Room for Improvement
 bla bla bla stretch goals
