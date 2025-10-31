@@ -35,7 +35,7 @@ What you need to run MyLoFi...
     * Click **Users**
       * There, you should be able to view what your mac user is called
 4. Change 'kaylyn' to your mac user name
-   * Each file line should now say... **fileX = "/Users/macusername/Desktop/lofitrack/______.mp3"**
+   * Each file line should now say... `fileX = "/Users/macusername/Desktop/lofitrack/______.mp3"`
    *  You're now ready to launch MyLoFi
 6. Click the play button in the top right corner to run the code
    * You should now get a python launcher window
