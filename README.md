@@ -1,5 +1,4 @@
-# Working with Data and Code, Code Prototype Project
-## MyLoFi
+# MyLoFi (Working with Data and Code)
 
 ## Table of contents
 * [General info](#general-info)
