@@ -5,7 +5,7 @@
 * [Required Elements](#required-elements)
 * [How to set up MyLoFi](#how-to-set-up-mylofi)
 * [Room for Improvement](#room-for-improvement)
-* [Credits and Sources](#credits-and-sources)
+* [Credits, Sources, and Extras](#credits-sources-and-extras)
 
 ## General Info
 **MyLoFi** is an interactive Python-based interface that allows users to create and personalise their own lo-fi soundtrack, to study to or to even simply relax to. Designed with simplicity and creativity in mind, MyLoFi lets users select certain instrumental elements, such as piano chords, drums, bass, and ambient effects, to build a relaxing, custom lo-fi beat. The interface features checkboxes for selecting instruments, along with intuitive play, stop, select all, and deselect all buttons for seamless user control. Inspired by the calming and nostalgic tones of lo-fi music, MyLoFi recognises how hard it is to find a lo-fi beat that users enjoy, so why not let them make it by themselves?
@@ -52,7 +52,7 @@ So here are some future improvement points:
 * More than 1 track
 * Better visuals/aesthetics
 
-## Credits and Sources
+## Credits, Sources, and Extras
 Lo-fi track inspiration -> https://www.youtube.com/watch?v=APljvOxetas 
 
 Font -> https://resourceboy.com/fonts/lofi-lifestyle-font/ 
