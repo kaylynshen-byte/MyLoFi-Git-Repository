@@ -1,6 +1,6 @@
-# MyLoFi (Working with Data and Code)
+# MyLoFi :headphones:
 
-## Table of contents
+## Table of Contents
 * [General Info](#general-info)
 * [Required Elements](#required-elements)
 * [How to set up MyLoFi](#how-to-set-up-mylofi)
@@ -8,7 +8,9 @@
 * [Credits, Resources, and Extras](#credits-resources-and-extras)
 
 ## General Info
-**MyLoFi** is an interactive Python-based interface that allows users to create and personalise their own lo-fi soundtrack, to study to or to even simply relax to. Designed with simplicity and creativity in mind, MyLoFi lets users select certain instrumental elements, such as piano chords, drums, bass, and ambient effects, to build a relaxing, custom lo-fi beat. The interface features checkboxes for selecting instruments, along with intuitive play, stop, select all, and deselect all buttons for seamless user control. Inspired by the calming and nostalgic tones of lo-fi music, MyLoFi recognises how hard it is to find a lo-fi beat that users enjoy, so why not let them make it by themselves?
+**MyLoFi** is an interactive Python-based interface that allows users to create and personalise their own lo-fi soundtrack, to study to or to even simply relax to. Designed with simplicity and creativity in mind, MyLoFi lets users select certain instrumental elements, such as piano chords, drums, bass, and ambient effects, to build a relaxing, custom lo-fi beat. The interface features checkboxes for selecting instruments, along with intuitive play, stop, select all, and deselect all buttons for seamless user control. 
+
+Inspired by the calming and nostalgic tones of lo-fi music, MyLoFi recognises how hard it is to find a lo-fi beat that users enjoy, so why not let them make it by themselves?
 
 <img width="517" height="610" alt="image" src="https://github.com/user-attachments/assets/58ba1920-7572-45ad-a896-9aac9b228ca6" />
 
@@ -24,9 +26,9 @@ What you need to run MyLoFi...
   * Audio folder: lofitrack
 
 ## How to set up MyLoFi
-### A step by step guide
+### A step by step guide :white_check_mark:
 
-1. Ensure you have all the elements listed [above](#required-elements)
+1. Ensure you have all the elements listed [above](#required-elements) 
 2. Open **mylofi.py** in Visual Studio Code
 3. Go to **line 64-70**
    * Here the code dictates the path to each individual audio file, so we are going to change that to match your laptop:
@@ -42,28 +44,28 @@ What you need to run MyLoFi...
 7. Tick which elements you want in your lofi track!
 8. Click **PLAY** and your lofi track will play continuously until you hit **STOP**
    * You can use the **SELECT ALL** button to tick all the checkboxes at once, and the **DESELECT ALL** button to reset them!
-9. Have fun with your new lofi soundtrack!!!!!!
+9. Have fun with your new lofi soundtrack :tada:
 
 ## Room for Improvement
 This was a short semester project, thus, it is not completed to the extent that I would like...
 
 So here are some future development ideas:
-* Volume settings for each musical element
-* More than 1 track
-* Better visuals/aesthetics
+* Volume settings for each musical element :sound:
+* More than 1 track :notes:
+* Better visuals/aesthetics :sparkles:
 
 ## Credits, Resources, and Extras
-Want to see the TunePad soundtrack? Here's the link -> https://tunepad.com/project/110923
+Want to see the TunePad soundtrack? Here's the link :arrow_right: https://tunepad.com/project/110923
 
 The json file is also included in this git repository!
 
 ### Resources
-Lo-fi track inspiration -> https://www.youtube.com/watch?v=APljvOxetas 
+Lo-fi track inspiration :arrow_right: https://www.youtube.com/watch?v=APljvOxetas 
 
-Interface inspiration -> https://youtu.be/MeMCBdnhvQs?si=fIx4L8qw1Fk_wkY8 
+Interface inspiration :arrow_right: https://youtu.be/MeMCBdnhvQs?si=fIx4L8qw1Fk_wkY8 
 
-Font -> https://resourceboy.com/fonts/lofi-lifestyle-font/ 
+Font :arrow_right: https://resourceboy.com/fonts/lofi-lifestyle-font/ 
 
-Cafe Chatter Audio -> https://freesound.org/people/lunchmoney/sounds/380201/
+Cafe Chatter Audio :arrow_right: https://freesound.org/people/lunchmoney/sounds/380201/
 
-Vinyl Crackle Audio -> https://freesound.org/people/Anthousai/sounds/398815/
+Vinyl Crackle Audio :arrow_right: https://freesound.org/people/Anthousai/sounds/398815/
