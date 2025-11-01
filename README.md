@@ -41,7 +41,7 @@ Inspired by the calming and nostalgic tones of lo-fi music, MyLoFi recognises ho
 4. Open **mylofi.py** in Visual Studio Code
 5. If you already have **pygame** installed, skip to **Step 6**
     * Open **terminal**
-    * To install pygame, enter `pip install pygame` or `pip3 install pygame`
+    * To install pygame, type `pip install pygame` or `pip3 install pygame` and enter
       * You should now have pygame installed
 6. You're now ready to launch MyLoFi :headphones:
 7. Click the play button in the top right corner to run the code :arrow_forward:
