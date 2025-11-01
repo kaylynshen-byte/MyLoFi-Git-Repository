@@ -16,35 +16,40 @@ Inspired by the calming and nostalgic tones of lo-fi music, MyLoFi recognises ho
 
 ## Required Elements
 
-What you need to run MyLoFi...
+### What you need to run MyLoFi...
 * Applications:
   * Visual Studio Code
   * Python Launcher
 
-* Files to save to your desktop:
+### Files to save:
+* Must be in the same location
   * Python file: mylofi.py
-  * Audio folder: lofitrack
+  * Audio zip file: lofitrack.zip
+  * Font zip file: font.zip
 
 ## How to set up MyLoFi
 ### A step by step guide :white_check_mark:
 
-1. Ensure you have all the elements listed [above](#required-elements) 
-2. Open **mylofi.py** in Visual Studio Code
-3. Go to **line 64-70**
-   * Here the code dictates the path to each individual audio file, so we are going to change that to match your laptop:
-    * Click onto **Finder**
-    * In the sidebar, under Locations, there should be a drive called **Macintosh HD**
-    * Click **Users**
-      * There, you should be able to view what your mac user is called
-4. Change 'kaylyn' to your mac user name
-   * Each file line should now say... `fileX = "/Users/macusername/Desktop/lofitrack/______.mp3"`
-   *  You're now ready to launch MyLoFi
-6. Click the play button in the top right corner to run the code
+1. Ensure you have all the elements listed [above](#required-elements)
+2. Expand both zip files by double clicking
+3. How to download Lofi Lifestyle Font:
+    * Click the **font** folder
+    * Open **Lofi Lifestyle Demo.otf**
+    * Click **install**
+       * The font should now be downloaded
+       * Feel free to delete the zipfile and the font folder
+4. Open **mylofi.py** in Visual Studio Code
+5. If you already have **pygame** installed, skip to **Step 6**
+    * Open **terminal**
+    * To install pygame, enter `pip install pygame` or `pip3 install pygame`
+      * You should now have pygame installed
+6. You're now ready to launch MyLoFi!!
+7. Click the play button in the top right corner to run the code
    * You should now get a python launcher window
-7. Tick which elements you want in your lofi track!
-8. Click **PLAY** and your lofi track will play continuously until you hit **STOP**
+8. Tick which elements you want in your lofi track!
+9. Click **PLAY** and your lofi track will play continuously until you hit **STOP**
    * You can use the **SELECT ALL** button to tick all the checkboxes at once, and the **DESELECT ALL** button to reset them!
-9. Have fun with your new lofi soundtrack :tada:
+10. Have fun with your new lofi soundtrack :tada:
 
 ## Room for Improvement
 This was a short semester project, thus, it is not completed to the extent that I would like...
