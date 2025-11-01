@@ -17,12 +17,12 @@ Inspired by the calming and nostalgic tones of lo-fi music, MyLoFi recognises ho
 ## Required Elements
 
 ### What you need to run MyLoFi...
-* Applications:
+* Applications
   * Visual Studio Code
   * Python Launcher
 
-### Files to save:
-* Must be in the same location
+### Files to save...
+* Must be saved in the same location e.g. downloads or desktop
   * Python file: mylofi.py
   * Audio zip file: lofitrack.zip
   * Font zip file: font.zip
